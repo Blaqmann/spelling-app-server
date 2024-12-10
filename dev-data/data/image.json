@@ -1,0 +1,398 @@
+[
+    {
+        "imageID": 0,
+        "name": "laptop.jpg",
+        "description": "A portable personal computer with a clamshell form factor.",
+        "options": [
+            "laptop",
+            "lpatpo",
+            "larptop"
+        ],
+        "correctOption": "laptop"
+    },
+    {
+        "imageID": 1,
+        "name": "soccer.jpg",
+        "description": "A sport played by two teams of eleven players with a spherical ball.",
+        "options": [
+            "sokka",
+            "soccar",
+            "soccer"
+        ],
+        "correctOption": "soccer"
+    },
+    {
+        "imageID": 2,
+        "name": "table.jpg",
+        "description": "A piece of furniture with a flat top and one or more legs.",
+        "options": [
+            "tabel",
+            "table",
+            "tabul"
+        ],
+        "correctOption": "table"
+    },
+    {
+        "imageID": 3,
+        "name": "plantain.jpg",
+        "description": "A starchy fruit that is typically cooked before eating.",
+        "options": [
+            "plantein",
+            "plantain",
+            "plantian"
+        ],
+        "correctOption": "plantain"
+    },
+    {
+        "imageID": 4,
+        "name": "clipper.jpg",
+        "description": "A device used for cutting hair or trimming hedges.",
+        "options": [
+            "clippar",
+            "cliper",
+            "clipper"
+        ],
+        "correctOption": "clipper"
+    },
+    {
+        "imageID": 5,
+        "name": "banana.jpg",
+        "description": "A long curved fruit that grows in clusters and has soft pulpy flesh and yellow skin when ripe.",
+        "options": [
+            "bananna",
+            "banana",
+            "banan"
+        ],
+        "correctOption": "banana"
+    },
+    {
+        "imageID": 6,
+        "name": "umbrella.jpg",
+        "description": "A device for protection against rain or sunlight, consisting of a collapsible, circular canopy mounted on a central rod.",
+        "options": [
+            "umbrela",
+            "umbrella",
+            "umberella"
+        ],
+        "correctOption": "umbrella"
+    },
+    {
+        "imageID": 7,
+        "name": "guitar.jpg",
+        "description": "A musical instrument with six strings played by strumming or plucking.",
+        "options": [
+            "gitar",
+            "guitar",
+            "guiter"
+        ],
+        "correctOption": "guitar"
+    },
+    {
+        "imageID": 8,
+        "name": "apple.jpg",
+        "description": "A sweet, edible fruit.",
+        "options": [
+            "aple",
+            "appple",
+            "apple"
+        ],
+        "correctOption": "apple"
+    },
+    {
+        "imageID": 9,
+        "name": "elephant.jpg",
+        "description": "A large mammal with a trunk, tusks, and large ears, found in Africa and Asia.",
+        "options": [
+            "elefant",
+            "elephent",
+            "elephant"
+        ],
+        "correctOption": "elephant"
+    },
+    {
+        "imageID": 10,
+        "name": "airplane.jpg",
+        "description": "A powered flying vehicle with fixed wings and a weight greater than that of the air it displaces.",
+        "options": [
+            "airplane",
+            "ariplane",
+            "airplene"
+        ],
+        "correctOption": "airplane"
+    },
+    {
+        "imageID": 11,
+        "name": "balloon.jpg",
+        "description": "A flexible bag filled with gas, such as helium, which causes it to rise in the air.",
+        "options": [
+            "baloon",
+            "ballon",
+            "balloon"
+        ],
+        "correctOption": "balloon"
+    },
+    {
+        "imageID": 12,
+        "name": "butterfly.jpg",
+        "description": "An insect with two pairs of large, typically colorful wings that are covered with microscopic scales.",
+        "options": [
+            "buterfly",
+            "butterfly",
+            "butterfliy"
+        ],
+        "correctOption": "butterfly"
+    },
+    {
+        "imageID": 13,
+        "name": "camera.jpg",
+        "description": "A device for recording visual images in the form of photographs, film, or video signals.",
+        "options": [
+            "camera",
+            "camra",
+            "cammera"
+        ],
+        "correctOption": "camera"
+    },
+    {
+        "imageID": 14,
+        "name": "dolphin.jpg",
+        "description": "A highly intelligent aquatic mammal known for its friendly nature and agility in the water.",
+        "options": [
+            "dolpin",
+            "dolphin",
+            "dolphen"
+        ],
+        "correctOption": "dolphin"
+    },
+    {
+        "imageID": 15,
+        "name": "flamingo.jpg",
+        "description": "A wading bird with a long neck, long legs, and pink or reddish plumage.",
+        "options": [
+            "flamengo",
+            "flamingo",
+            "flaminggo"
+        ],
+        "correctOption": "flamingo"
+    },
+    {
+        "imageID": 16,
+        "name": "giraffe.jpg",
+        "description": "A tall African mammal with a very long neck and forelegs, having a coat patterned with brown patches separated by lighter lines.",
+        "options": [
+            "girafe",
+            "giraffe",
+            "giraff"
+        ],
+        "correctOption": "giraffe"
+    },
+    {
+        "imageID": 17,
+        "name": "helicopter.jpg",
+        "description": "A type of aircraft that derives both lift and propulsion from one or more sets of horizontally revolving overhead rotors.",
+        "options": [
+            "helicopter",
+            "helicoptor",
+            "hellicopter"
+        ],
+        "correctOption": "helicopter"
+    },
+    {
+        "imageID": 18,
+        "name": "icecream.jpg",
+        "description": "A sweetened frozen food typically eaten as a snack or dessert.",
+        "options": [
+            "ice-creme",
+            "ice-cream",
+            "ice-crem"
+        ],
+        "correctOption": "ice-cream"
+    },
+    {
+        "imageID": 19,
+        "name": "jellyfish.jpg",
+        "description": "A free-swimming marine animal with a gelatinous umbrella-shaped bell and trailing tentacles.",
+        "options": [
+            "jellyfish",
+            "jellyfish",
+            "jellyfih"
+        ],
+        "correctOption": "jellyfish"
+    },
+    {
+        "imageID": 20,
+        "name": "kangaroo.jpg",
+        "description": "A large marsupial from Australia with strong hind legs for hopping.",
+        "options": [
+            "kangeroo",
+            "kangaro",
+            "kangaroo"
+        ],
+        "correctOption": "kangaroo"
+    },
+    {
+        "imageID": 21,
+        "name": "lemon.jpg",
+        "description": "A yellow citrus fruit with a sour taste.",
+        "options": [
+            "lemen",
+            "lemon",
+            "lemmon"
+        ],
+        "correctOption": "lemon"
+    },
+    {
+        "imageID": 22,
+        "name": "microscope.jpg",
+        "description": "An optical instrument used for viewing very small objects.",
+        "options": [
+            "microscope",
+            "microscop",
+            "microskope"
+        ],
+        "correctOption": "microscope"
+    },
+    {
+        "imageID": 23,
+        "name": "notebook.jpg",
+        "description": "A small book with blank or ruled pages for writing notes.",
+        "options": [
+            "noteboke",
+            "notbook",
+            "notebook"
+        ],
+        "correctOption": "notebook"
+    },
+    {
+        "imageID": 24,
+        "name": "octopus.jpg",
+        "description": "A sea creature with eight arms and a soft body.",
+        "options": [
+            "octopus",
+            "octapus",
+            "octopuss"
+        ],
+        "correctOption": "octopus"
+    },
+    {
+        "imageID": 25,
+        "name": "penguin.jpg",
+        "description": "A flightless seabird with black and white plumage and flipper-like wings.",
+        "options": [
+            "pengwin",
+            "penguin",
+            "penguine"
+        ],
+        "correctOption": "penguin"
+    },
+    {
+        "imageID": 26,
+        "name": "quartz.jpg",
+        "description": "A hard, crystalline mineral composed of silicon and oxygen atoms.",
+        "options": [
+            "quatz",
+            "qurtz",
+            "quartz"
+        ],
+        "correctOption": "quartz"
+    },
+    {
+        "imageID": 27,
+        "name": "robot.jpg",
+        "description": "A machine capable of carrying out a complex series of actions automatically.",
+        "options": [
+            "robott",
+            "robot",
+            "robot"
+        ],
+        "correctOption": "robot"
+    },
+    {
+        "imageID": 28,
+        "name": "saxophone.jpg",
+        "description": "A woodwind instrument that is typically made of brass and played with a single-reed mouthpiece.",
+        "options": [
+            "saxofone",
+            "saxophone",
+            "saxophonne"
+        ],
+        "correctOption": "saxophone"
+    },
+    {
+        "imageID": 29,
+        "name": "telephone.jpg",
+        "description": "A device that converts sound, typically and most efficiently the human voice, into electronic signals suitable for transmission via cables or other transmission media over long distances.",
+        "options": [
+            "telefone",
+            "telephone",
+            "telephon"
+        ],
+        "correctOption": "telephone"
+    },
+    {
+        "imageID": 30,
+        "name": "vaccine.jpg",
+        "description": "A biological preparation that provides active acquired immunity to a particular infectious disease.",
+        "options": [
+            "vaxine",
+            "vaccin",
+            "vaccine"
+        ],
+        "correctOption": "vaccine"
+    },
+    {
+        "imageID": 31,
+        "name": "watermelon.jpg",
+        "description": "A large fruit with a hard green rind and sweet watery red or pink flesh.",
+        "options": [
+            "watermellon",
+            "watermelon",
+            "watarmelon"
+        ],
+        "correctOption": "watermelon"
+    },
+    {
+        "imageID": 32,
+        "name": "xylophone.jpg",
+        "description": "A musical instrument in the percussion family that consists of wooden bars struck by mallets.",
+        "options": [
+            "xylophone",
+            "xylaphone",
+            "xylophon"
+        ],
+        "correctOption": "xylophone"
+    },
+    {
+        "imageID": 33,
+        "name": "yogurt.jpg",
+        "description": "A food produced by bacterial fermentation of milk.",
+        "options": [
+            "yogert",
+            "yogurt",
+            "yoghurt"
+        ],
+        "correctOption": "yogurt"
+    },
+    {
+        "imageID": 34,
+        "name": "zebra.jpg",
+        "description": "An African wild horse with black-and-white stripes and an erect mane.",
+        "options": [
+            "zebra",
+            "zeebra",
+            "zebrah"
+        ],
+        "correctOption": "zebra"
+    },
+    {
+        "imageID": 35,
+        "name": "unicorn.jpg",
+        "description": "A mythical horse-like creature with a single horn on its forehead.",
+        "options": [
+            "unicorne",
+            "unicorn",
+            "unicorm"
+        ],
+        "correctOption": "unicorn"
+    }
+]

@@ -1,0 +1,4 @@
+cmd:
+
+node import-dev-data.js --delete
+node import-dev-data.js --import
